@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+项目主要组件在src/components下面
+
 # install dependencies
 npm install
 
